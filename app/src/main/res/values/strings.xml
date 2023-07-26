@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeySup</string>
+
+    <string name="api_key">u28hegnpwym6</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiaWdrYXBwcyJ9.K-Fb9mBgrLnY7jJ_vOTCWpBaNZnIC57HEg3ExUs8-QM</string>
+    <string name="title_activity_channel_list">ChannelListActivity</string>
+    <string name="title_activity_message">MessageActivity</string>
+</resources>
