@@ -16,7 +16,7 @@
         android:theme="@style/Theme.HeySup"
         tools:targetApi="31">
         <activity
-            android:name=".activity.MessageActivity"
+            android:name=".activity.MessagesActivity"
             android:exported="false"
             android:label="@string/title_activity_message"
             android:theme="@style/Theme.HeySup"
